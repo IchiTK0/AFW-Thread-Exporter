@@ -1,4 +1,4 @@
-# LAW Thread to PDF/HTML Exporter
+# AFW Thread to PDF/HTML Exporter
 
 You can use this to convert AFWRPG threads into PDFs and/or HTML files.
 
