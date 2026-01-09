@@ -1,0 +1,11 @@
+scrapy
+beautifulsoup4
+lxml
+pdfkit
+urllib3
+
+# If I wanted to be a dick and (likely) fill up your disk space unnecessarily, these next lines would be uncommented.
+# pytorch
+# tensorflow
+# keras
+# scipy
