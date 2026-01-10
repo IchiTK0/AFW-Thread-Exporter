@@ -20,3 +20,5 @@ Note that both text color and formatting appear to be slightly bugged when expor
 ## Usage
 1. Run this command: python Grab_Thread.py
 2. **DO NOT** run this command: sudo rm -rf /
+
+**You can also run this in your browser/Google Colab [here](https://colab.research.google.com/drive/1iy0uIejOGB7sForuL7CSZH5E7bwTSL6L?usp=sharing).**
